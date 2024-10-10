@@ -27,7 +27,7 @@ Este projeto consiste em um sistema embarcado desenvolvido para monitorar  e con
 ![bitwise_diagrama_fiware](https://github.com/user-attachments/assets/a3dc91eb-b904-4c91-b249-e9147806a2fa)
 
 #### Descrição do Sistema
-Todos os dados de temperatura, Umidade e luminosidade captado pelo sistema é enviado em tempo real para a nuvem, utilizando a plataforma FIWARE. Esta funcionalidade é essencial para monitorar e analisar as condições, sendo assim criamos um DASHBOARD DINÂMICO desses dados.
+Todos os dados de temperatura, Umidade e luminosidade captado pelo sistema é enviado em tempo real para a nuvem, utilizando a plataforma FIWARE. Esta funcionalidade é essencial para monitorar e analisar as condições de qualquer lugar, mesmo atuando diretamente no local, sendo assim criamos um DASHBOARD DINÂMICO desses dados.
 
 #### Como a Plataforma FIWARE Funciona
 A plataforma FIWARE é uma infraestrutura aberta que facilita a criação de aplicações inteligentes em diversas áreas, incluindo a Internet das Coisas (IoT). No contexto deste projeto, FIWARE é utilizada para captar e armazenar dados de temperatura e luminosidade dos sensores, sendo assim, através do POSTMAN podemos acessar em tempo real os dados captados pelos sensores, além de posteriormente possibilitar a criação de gráficos (dashboard histórico) para analisar os dados captados durante uma corrida ou até mesmo para verificá-los em tempo real através de um dashboard dinâmico.
