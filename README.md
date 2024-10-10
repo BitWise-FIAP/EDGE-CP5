@@ -9,6 +9,7 @@ Matheus Gushi    - RM: 556935
 Pedro Ferrari    - RM: 554887
 
 Link da simulação: https://wokwi.com/projects/407642666126106625
+Link do vídeo explicativo: https://youtu.be/2Df35eBsnKY
 # Sistema de Monitoramento da Luminosidade, Temperatura e Umidade
 
 Este projeto consiste em um sistema embarcado desenvolvido para monitorar  e controlar (localmente e à distancia) diversos aspectos do ESP32, utilizando a plataforma FIWARE para enviar os dados à NUVEM (para acessá-los de qualquer lugar), sensores. O código foi escrito em C++ para a plataforma Arduino.
@@ -63,6 +64,6 @@ Para configurar e utilizar este sistema:
 
 3. **Dashboard (Python)**: Crie um arquivo python para ser executado pelo serviço que você criará. Dessa forma você poderá criar seu Dashboard dinâmico usando dados do STH-Comet.
 
-3.1 **Passos Detalhados**: Basta seguir os passos exemplificados na imagem e no link do vídeo a seguir: ![image](https://github.com/user-attachments/assets/a15234b1-cfb5-4a1e-96ab-938f6f7e2ef4) 
+3.1 **Passos Detalhados**: Basta seguir os passos exemplificados na imagem e no link do vídeo a seguir: ![image](https://github.com/user-attachments/assets/a15234b1-cfb5-4a1e-96ab-938f6f7e2ef4) https://youtu.be/2Df35eBsnKY
 
 4. **Funcionamento**: Após carregar o código, o sistema começará a funcionar automaticamente. Através de uma API, você poderá acessar os dados enviados para sua plataforma FIWARE e trabalhar com os dados contidos no MongoDB. Além disso, com o serviço ativo os dashboards dinamicos poderão ser acessados através da URL http://IP-DA-VM:8050.
