@@ -4,8 +4,6 @@ Enrico Ricarte   - RM: 558571
 
 Victor Freire    - RM: 556191
 
-Matheus Gushi    - RM: 556935
-
 Pedro Ferrari    - RM: 554887
 
 Link da simulação: https://wokwi.com/projects/407642666126106625
