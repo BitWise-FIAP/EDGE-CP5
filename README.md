@@ -6,8 +6,9 @@ Victor Freire    - RM: 556191
 
 Pedro Ferrari    - RM: 554887
 
-Link da simulação: https://wokwi.com/projects/407642666126106625
-Link do vídeo explicativo: https://youtu.be/2Df35eBsnKY
+- Link da simulação: https://wokwi.com/projects/407642666126106625
+- Link do vídeo explicativo: https://youtu.be/2Df35eBsnKY
+  
 # Sistema de Monitoramento da Luminosidade, Temperatura e Umidade
 
 Este projeto consiste em um sistema embarcado desenvolvido para monitorar  e controlar (localmente e à distancia) diversos aspectos do ESP32, utilizando a plataforma FIWARE para enviar os dados à NUVEM (para acessá-los de qualquer lugar), sensores. O código foi escrito em C++ para a plataforma Arduino.
